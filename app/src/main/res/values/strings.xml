@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application321</string>
+    <string name="text_name">Ваше имя:</string>
+    <string name="text_age">Ваш возраст:</string>
+    <string name="text_specialization">Ваша специализация:</string>
+    <string name="text_named">Ваше имя: Никита</string>
+    <string name="text_aged">Ваш возраст: 18</string>
+    <string name="text_spec">Ваша специализация: Программист</string>
+    <string name="text_nameee">Никита</string>
+    <string name="spec">Программист</string>
+    <string name="age">18 лет</string>
+    <string name="Nikita_name">Никита</string>
+    <string name="speac">программист</string>
+    <string name="agee">18</string>
+</resources>
